@@ -1,0 +1,19 @@
+services:
+  # Web Service PHP 8.2 Apache
+  - type: web
+    name: suarakita-app
+    env: docker
+    plan: free
+    region: singapore
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: DB_HOST
+        value: mysql-2489b97c-sistem-pengaduan-kampus.k.aivencloud.com
+      - key: DB_PORT
+        value: "16119"
+      - key: DB_USER
+        value: avnadmin
+      - key: DB_PASS
+        sync: false
+      - key: DB_NAME
+        value: defaultdb

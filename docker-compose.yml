@@ -1,0 +1,32 @@
+services:
+  db:
+    image: docker.io/library/mariadb:10.11
+    container_name: suarakita_db
+    restart: always
+    environment:
+      MARIADB_ALLOW_EMPTY_ROOT_PASSWORD: "yes"
+      MARIADB_DATABASE: "suarakita"
+    volumes:
+      - db_data:/var/lib/mysql:Z
+      - ./database/suarakita.sql:/docker-entrypoint-initdb.d/suarakita.sql:ro,Z
+    ports:
+      - "3306:3306"
+
+  web:
+    build: .
+    container_name: suarakita_web
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      DB_HOST: "db"
+      DB_USER: "root"
+      DB_PASS: ""
+      DB_NAME: "suarakita"
+    volumes:
+      - .:/var/www/html:z
+    depends_on:
+      - db
+
+volumes:
+  db_data:

@@ -1,0 +1,82 @@
+[2026-10-07 11:00:46] NOTIF_SENT to User ID #14 | Judul: 🔄 Pembaruan Status Pengaduan | Pesan: Status pengaduan 'Permohonan Ke ormawa' diperbarui menjadi 'Ditinjau'.
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-13 05:55:21
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 🔄 Pembaruan Status Pengaduan
+MESSAGE: Status pengaduan 'Keluhan terhadap akses jaringan' diperbarui menjadi 'Ditinjau'.
+GATEWAY RESPONSE: SENT VIA FONNTE API ({"reason":"request invalid on disconnected device","requestid":1041993756,"status":false})
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-13 05:55:27
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 🔄 Pembaruan Status Pengaduan
+MESSAGE: Status pengaduan 'Keluhan terhadap akses jaringan' diperbarui menjadi 'Ditinjau'.
+GATEWAY RESPONSE: SENT VIA FONNTE API ({"reason":"request invalid on disconnected device","requestid":1041993972,"status":false})
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-13 05:55:53
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 💬 Tanggapan Baru dari Admin
+MESSAGE: Admin telah membalas pengaduan Anda 'Keluhan terhadap akses jaringan': "Baik, keluhan anda akan kami cek..."
+GATEWAY RESPONSE: SENT VIA FONNTE API ({"reason":"request invalid on disconnected device","requestid":1041994684,"status":false})
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-15 17:24:58
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 🔄 Pembaruan Status Pengaduan
+MESSAGE: Status pengaduan 'Parkiran terlalu sempit' diperbarui menjadi 'Ditinjau'.
+GATEWAY RESPONSE: FAILED (cURL Error: Connection timed out after 18883 milliseconds)
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-15 17:25:47
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 💬 Tanggapan Baru dari Admin
+MESSAGE: Admin telah membalas pengaduan Anda 'Parkiran terlalu sempit': "Okey pengaduan anda sedang kami tinjau..."
+GATEWAY RESPONSE: FAILED (cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.fonnte.com:443 )
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-15 17:37:20
+TO: Melisha Ayu Fitria (User ID #23)
+NO. WA: 081234567897
+HEADER: 🔄 Pembaruan Status Pengaduan
+MESSAGE: Status pengaduan 'Keluhan terhadap akses jaringan' diperbarui menjadi 'Ditinjau'.
+GATEWAY RESPONSE: FAILED (cURL Error: Connection timed out after 21037 milliseconds)
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-15 17:38:09
+TO: Melisha Ayu Fitria (User ID #23)
+NO. WA: 081234567897
+HEADER: 💬 Tanggapan Baru dari Admin
+MESSAGE: Admin telah membalas pengaduan Anda 'Keluhan terhadap akses jaringan': "okey status akan kami tinjau, harap menunggu..."
+GATEWAY RESPONSE: FAILED (cURL Error: Connection timed out after 28206 milliseconds)
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-15 17:53:53
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 🔄 Pembaruan Status Pengaduan
+MESSAGE: Status pengaduan 'Kamar mandi kotor' diperbarui menjadi 'Ditinjau'.
+GATEWAY RESPONSE: SENT VIA FONNTE API ({"detail":"success! message in queue","id":[186094901],"process":"pending","quota":{"085182323646":{"details":"deduced from total quota","quota":996,"remaining":995,"used":1}},"requestid":1046469338,"status":true,"target":["6282164512962"]})
+--------------------------------------------------
+
+--------------------------------------------------
+📲 [WHATSAPP DISPATCH] 2026-10-15 17:54:32
+TO: Nenden Nurdianti (User ID #21)
+NO. WA: 082164512962
+HEADER: 💬 Tanggapan Baru dari Admin
+MESSAGE: Admin telah membalas pengaduan Anda 'Kamar mandi kotor': "okey pengaduan anda akan kami tinjau..."
+GATEWAY RESPONSE: FAILED (cURL Error: Connection timed out after 22195 milliseconds)
+--------------------------------------------------
+
